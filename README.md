@@ -4,9 +4,6 @@ Trello link : https://trello.com/invite/b/H4ixJe14/a211c409edb601707833c8f3d92c2
 
 Buy-zy wireframe
 
-
-![Home page (2)](https://user-images.githubusercontent.com/108900593/188900600-a5a955e2-1cb8-43d8-902f-0bf4cac2974f.png)
-
 [Home page.pdf](https://github.com/Malek-ALdesougi/Buy-zy/files/9506900/Home.page.pdf)
 [page 2.pdf](https://github.com/Malek-ALdesougi/Buy-zy/files/9506901/page.2.pdf)
 
