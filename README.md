@@ -1,5 +1,15 @@
 # Buy-zy
 
+Website description : 
+
+build the website using WordPress from scratch my site is divided into 5 main pages. All are accessible from the navigation bar which is visible on every page. All pages should include a Logo, theme colors, and fonts. Additionally, there is a footer that is also visible on every page.
+
+
+Theme name : Astra.
+
+Plugins used : Woocommerce/Akismet Anti-Spam/CartFlows/Checkout Plugins - Stripe for WooCommerce/Elementor/Email Test/Ultimate Member/Weglot Translate/User Switching
+
+
 Trello link : https://trello.com/invite/b/H4ixJe14/a211c409edb601707833c8f3d92c2950/e-comerce-project
 
 Buy-zy wireframe
